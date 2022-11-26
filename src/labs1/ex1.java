@@ -1,2 +1,7 @@
-package labs1;public class ex1 {
+package labs1;
+
+public class ex1 {
+    public static void main(String[] args) {
+        System.out.println("Привет,мир");
+    }
 }

@@ -1,17 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc1f27f4-477f-42a6-8636-861997ce6ae1" name="Changes" comment="" />
+    <list default="true" id="bc1f27f4-477f-42a6-8636-861997ce6ae1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/labs1/ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/labs1/ex9.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2I4jXUgPcW1oq0MwuU1SLNpVBzb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +70,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="loli6o9&lt;maksust@bk.ru&gt;" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="loli6o9&lt;maksust@bk.ru&gt;" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
