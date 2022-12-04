@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc1f27f4-477f-42a6-8636-861997ce6ae1" name="Changes" comment="Лаба 2">
-      <change afterPath="$PROJECT_DIR$/src/labs3/ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs3/ex10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs3/ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs3/ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs3/ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs3/ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs3/ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs3/ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs3/ex8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/labs3/ex9.java" afterDir="false" />
+    <list default="true" id="bc1f27f4-477f-42a6-8636-861997ce6ae1" name="Changes" comment="Лаба 3">
+      <change afterPath="$PROJECT_DIR$/src/labs4/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs4/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs4/ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs4/ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs4/ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs4/ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/labs4/ex7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,13 +47,13 @@
     "last_opened_file_path": "D:/Лабы/ЛабыМаксим/labs"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ex10">
-    <configuration name="ex10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs3.ex10" />
+  <component name="RunManager" selected="Application.ex8">
+    <configuration name="ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs4.ex5" />
       <module name="labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs3.*" />
+          <option name="PATTERN" value="labs4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs3.ex4" />
+    <configuration name="ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs4.ex6" />
       <module name="labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs3.*" />
+          <option name="PATTERN" value="labs4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,11 +75,11 @@
       </method>
     </configuration>
     <configuration name="ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs3.ex7" />
+      <option name="MAIN_CLASS_NAME" value="labs4.ex7" />
       <module name="labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs3.*" />
+          <option name="PATTERN" value="labs4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,11 +88,11 @@
       </method>
     </configuration>
     <configuration name="ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs3.ex8" />
+      <option name="MAIN_CLASS_NAME" value="labs4.ex8" />
       <module name="labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs3.*" />
+          <option name="PATTERN" value="labs4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labs3.ex9" />
+    <configuration name="labs4.ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labs4.ex4" />
       <module name="labs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labs3.*" />
+          <option name="PATTERN" value="labs4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ex10" />
-        <item itemvalue="Application.ex4" />
-        <item itemvalue="Application.ex9" />
         <item itemvalue="Application.ex8" />
         <item itemvalue="Application.ex7" />
+        <item itemvalue="Application.ex6" />
+        <item itemvalue="Application.ex5" />
+        <item itemvalue="Application.labs4.ex4" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670077012598</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Лаба 3">
+      <created>1670146027330</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670146027330</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,7 +197,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Лаба 1" />
     <MESSAGE value="Лаба 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Лаба 2" />
+    <MESSAGE value="Лаба 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лаба 3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/labs$ex10.ic" NAME="ex10 Coverage Results" MODIFIED="1670143666260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
